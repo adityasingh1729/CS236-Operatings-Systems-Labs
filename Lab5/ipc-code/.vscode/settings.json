@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mman.h": "c",
+        "socket.h": "c",
+        "shm.h": "c"
+    }
+}
